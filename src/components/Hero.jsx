@@ -71,10 +71,10 @@ const Hero = () => {
                             {/* Image Container */}
                             <div className="relative w-full h-full rounded-full border-4 border-white dark:border-darkBg shadow-2xl overflow-hidden bg-slate-100 dark:bg-slate-800 flex items-center justify-center">
                                 {/* Placeholder for actual photo, using geometric shape for now */}
-                                {/*<div className="text-9xl">👨‍💻</div>*/  }
+                                <div className="text-9xl"> 🧑‍💻</div>
 
                                 {/* Optional: Add actual image path below when available */}
-                                { <img src="/profile.jpg" alt="Profile" className="w-full h-full object-cover" /> }
+                                { /*<img src="/profile.jpg" alt="Profile" className="w-full h-full object-cover" /> */}
                             </div>
 
                             {/* Decorative badges */}
