@@ -43,7 +43,7 @@ const Experience = () => {
             title: 'Hackathon Participant',
             company: 'Anveshana Hackathon',
             date: 'Sept 2024',
-            description: 'Collaborated with a team of developers to build a smart hospital management prototype within 48 hours. Focused on the backend architecture using PHP and MySQL.',
+            description: 'Collaborated with a team of developers to build a smart hospital management prototype within 36 hours. Focused on the backend architecture using PHP and MySQL.',
             icon: <Trophy size={20} className="text-white" />,
             color: 'bg-softBlue-500'
         }
